@@ -30,8 +30,8 @@
 .leaflet-compass .compass-button {
     display: block;
     float: left;
-    width: 30px;
-    height: 30px;
+    width: 32px;
+    height: 32px;
     border-radius: 16px
 }
 
@@ -40,9 +40,9 @@
 }
 
 .leaflet-compass .compass-icon {
-    height: 30px;
-    width: 30px;
-    margin: 4px;
+    height: 32px;
+    width: 32px;
+    margin: 0px;
     background: url(./compass-icon.svg) center center no-repeat
 }
 
