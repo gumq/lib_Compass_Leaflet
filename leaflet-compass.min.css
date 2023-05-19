@@ -43,7 +43,7 @@
     height: 28px;
     width: 28px;
     margin: 2px;
-    background: url(./compass-icon.png) center center no-repeat
+    background: url(./compass-icon.svg) center center no-repeat
 }
 
 .leaflet-compass .compass-alert {
